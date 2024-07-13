@@ -1,0 +1,1184 @@
+.untitled-page.main {
+  display: flex;
+  flex-direction: column;
+  background-color: #e9eaf2;
+  overflow: hidden;
+}
+
+
+.untitled-page .section1 {
+  align-items: center;
+  font: 400 16px/1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+}
+
+.untitled-page .Navbar {
+display: flex; 
+max-width: 1708px;
+padding-top: 25px;
+align-items: flex-end;
+justify-content: space-between;
+margin-left: auto;
+margin-right: auto;
+flex-wrap: nowrap;
+}
+
+.untitled-page .navbar1 {
+  text-decoration: none;
+  font: 400 20px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: #E4D9FF;
+}
+
+.untitled-page .navbar1 a{
+  text-decoration: none;
+  font: 400 20px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: #E4D9FF;
+  transition: 0.4s linear;
+}
+
+.untitled-page .navbar1 a:hover {
+  color: #F9FB91;
+}
+
+.untitled-page .navbar2 {
+  text-decoration: none;
+  font: 400 20px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: #E4D9FF;
+  padding-left: 160px;
+
+}
+
+.untitled-page .navbar2 a{
+  text-decoration: none;
+  font: 400 20px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: #E4D9FF;
+  transition: 0.4s linear;
+}
+
+.untitled-page .navbar2 a:hover {
+  color: #F9FB91;
+}
+
+
+.untitled-page .navbar3 {
+  text-decoration: none;
+  font: 400 20px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: #E4D9FF;
+  padding-left: 160px;
+  
+}
+
+
+.untitled-page .navbar3 a{
+  text-decoration: none;
+  font: 400 20px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: #E4D9FF;
+  transition: 0.4s linear;
+}
+
+.untitled-page .navbar3 a:hover {
+  color: #F9FB91;
+}
+
+
+.untitled-page .navbar4 {
+  text-decoration: none;
+  font: 400 20px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: #E4D9FF;
+  padding-left: 160px;
+}
+
+.untitled-page .navbar4 a{
+  text-decoration: none;
+  font: 400 20px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: #E4D9FF;
+  transition: 0.4s linear;
+}
+
+.untitled-page .navbar4 a:hover {
+  color: #F9FB91;
+}
+
+
+.untitled-page .navbar5 {
+  text-decoration: none;
+  font: 400 24px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: #E4D9FF;
+  padding-left: 160px;
+}
+
+
+.untitled-page .navbar5 a{
+  text-decoration: none;
+  font: 400 20px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: #E4D9FF;
+  transition: 0.4s linear;
+}
+
+.untitled-page .navbar5 a:hover {
+  color: #F9FB91;
+}
+
+
+.untitled-page .navbar6 {
+  text-decoration: none;
+  font: 400 20px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: #E4D9FF;
+  padding-left: 160px;
+  transition: 0.4s linear;
+}
+
+.untitled-page .navbar6 a{
+  text-decoration: none;
+  font: 400 20px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: #E4D9FF;
+  transition: 0.4s linear;
+}
+
+.untitled-page .navbar6 a:hover {
+  color: #F9FB91;
+}
+
+
+.untitled-page .navCountryLink a{
+text-decoration: none;
+font: 400 16px/1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+color: white;
+}
+.untitled-page .section1 {
+  display: flex;
+  flex-direction: column;
+  min-height: 1079px;
+  background: var(--src) center center/100% 100% no-repeat;
+}
+.untitled-page .image8 {
+  margin: 32px auto 1027px;
+  width: 88.96%;
+}
+.untitled-page .heroSection {
+  display: flex;
+  flex-direction: column;
+  background: var(--src) center center/100% 100% no-repeat;
+}
+.untitled-page .contentWrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 232px 0 243px 12.81%;
+  width: 1184px;
+}
+.untitled-page .rectElement {
+  margin: 0 0 0 23.5%;
+  width: 15px;
+  min-height: 8px;
+  margin-left: 291px;
+  background-color: #4e0687;
+}
+.untitled-page .heroTitleBox_box {
+  display: flex;
+  justify-content: center;
+  margin: 1px 0 0;
+}
+.untitled-page .heroTitleBox {
+  font: 400 42px/1.15 QuinqueFive, Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: -2.1px;
+}
+.untitled-page .heroTitleBox_span0 {
+  font: 1em/1.15 QuinqueFive, Helvetica, Arial, serif;
+  color: #4e0687;
+}
+.untitled-page .heroTitleBox_span1 {
+  font: 1em/1.2 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .heroDescription {
+  margin: 73px 30px 0 29px;
+  font: 350 38px/1.3 BIOCAD, Helvetica, Arial, serif;
+  color: black;
+  text-align: justify;
+}
+.untitled-page .gamePromoSection {
+  display: flex;
+  flex-direction: column;
+  background: var(--src) center center/100% 100% no-repeat;
+}
+.untitled-page .contentContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 101px 0;
+  margin: 58px auto 152px;
+  width: 90.31%;
+}
+.untitled-page .gameTitleContainer_box {
+  display: flex;
+  justify-content: center;
+}
+.untitled-page .gameTitleContainer {
+  font: 400 42px/1.15 QuinqueFive, Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: -2.1px;
+}
+.untitled-page .gameTitleContainer_span0 {
+  font: 1em/1.15 QuinqueFive, Helvetica, Arial, serif;
+  color: #632c91;
+}
+.untitled-page .gameTitleContainer_span1 {
+  font: 1em/1.2 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .detailsContainer {
+  display: flex;
+  justify-content: space-between;
+  gap: 0 10px;
+  width: 100%;
+}
+.untitled-page .gameDetailsColumn {
+  display: flex;
+  flex-direction: column;
+  gap: 24px 0;
+  margin: 476px 0 0;
+  width: 846px;
+  min-width: 0;
+}
+.untitled-page .gameComponentsTitle {
+  font: 700 30px/1.46 "BIOCAD bold", Helvetica, Arial, serif;
+  color: black;
+  text-align: justify;
+}
+.untitled-page .gameComponentsTitle_span0 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #a1a4be;
+}
+.untitled-page .gameComponentsTitle_span1 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .downloadMaterialsBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 412px;
+  height: 81px;
+  font: 700 32px/1.43 "BIOCAD bold", Helvetica, Arial, serif;
+  text-align: center;
+  background: var(--src) center center/100% 100% no-repeat;
+  padding: 26px 30px;
+  letter-spacing: 1px;
+  background-color: #FFB000;
+  border-radius: 44px;
+  margin-top: 19px;
+  box-shadow: 3px 3px 5px #a4a5a8;
+}
+.untitled-page .downloadMaterialsBtn a {
+text-decoration: none;
+color: #e9eaf2;
+font: 700 32px/1.43 "BIOCAD bold", Helvetica, Arial, serif;
+}
+
+.untitled-page .downloadMaterialsBtn:hover {
+  background-color: #e29b00;
+  transition: 0.4s linear;
+}
+
+
+.untitled-page .gameDescriptionColumn {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 26px;
+  width: 819px;
+  min-width: 0;
+}
+.untitled-page .gameDescriptionTitle {
+  font: 400 30px/1.46 BIOCAD, Helvetica, Arial, serif;
+  color: black;
+  text-align: justify;
+}
+.untitled-page .gameDescriptionTitle_span0 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameDescriptionTitle_span1 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #a2a5be;
+}
+.untitled-page .gameDescriptionTitle_span2 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameDescriptionTitle_span3 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #a2a5be;
+}
+.untitled-page .gameDescriptionTitle_span4 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #a2a5be;
+}
+.untitled-page .gameDescriptionTitle_span5 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameDescriptionTitle_span6 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #9aca00;
+}
+.untitled-page .gameDescriptionTitle_span7 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #9aca00;
+}
+.untitled-page .gameDescriptionTitle_span8 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameDescriptionTitle_span9 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #a2a5be;
+}
+.untitled-page .gameDescriptionTitle_span10 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameDescriptionTitle_span11 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #9aca00;
+}
+.untitled-page .gameDescriptionTitle_span12 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameDescriptionTitle_span13 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #a2a5be;
+}
+.untitled-page .gameDescriptionTitle_span14 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameDescriptionTitle_span15 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #9aca00;
+}
+.untitled-page .gameDescriptionTitle_span16 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameInfoSection {
+  display: flex;
+  justify-content: center;
+  background: var(--src) center center/100% 100% no-repeat;
+}
+.untitled-page .decorativeRectangle {
+  position: relative;
+  margin: 104px -130.6% 1158px auto;
+  width: 14px;
+  min-height: 7px;
+  background-color: #226aa8;
+  margin-left: 200px;
+}
+.untitled-page .gameContentGroup {
+  position: relative;
+  top: 274px;
+  left: 888px;
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1533px;
+  height: 714px;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+.untitled-page .gameDetailsHeader_box {
+  position: absolute;
+  bottom: 32px;
+  left: 145;
+  width: 1220px;
+  height: 138px;
+}
+.untitled-page .gameDetailsHeader {
+  font: 700 30px/1.53 "BIOCAD bold", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 1px;
+}
+.untitled-page .gameDetailsHeader_span0 {
+  font: 700 1em/1.53 "Biocad Display", Helvetica, Arial, serif;
+  color: #a1a4be;
+}
+.untitled-page .gameDetailsHeader_span1 {
+  font: 1em/1.53 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameDetailsGrid {
+  top: 0;
+  left: 0;
+  display: grid;
+  align-content: start;
+  width: 1213px;
+  height: 711px;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+@media (min-width: 3000px) and (max-width: 99999px) {
+  .untitled-page .gameDetailsGrid {
+    gap: 0 0;
+  }
+}
+@media (max-width: 2999px) {
+  .untitled-page .gameDetailsGrid {
+    gap: 0 0;
+  }
+}
+.untitled-page .gameDetailItem {
+  display: grid;
+  align-content: start;
+  grid-row: span 1;
+  grid-column: span 1;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+@media (min-width: 3000px) and (max-width: 99999px) {
+  .untitled-page .gameDetailItem {
+    gap: 0 0;
+  }
+}
+@media (max-width: 2999px) {
+  .untitled-page .gameDetailItem {
+    gap: 0 0;
+  }
+}
+.untitled-page .gameDetailHeader_box {
+  grid-row: span 1;
+  grid-column: span 1;
+}
+.untitled-page .gameDetailHeader {
+  font: 400 30px/1.46 BIOCAD, Helvetica, Arial, serif;
+  color: black;
+  text-align: justify;
+}
+.untitled-page .gameDetailHeader_span0 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameDetailHeader_span1 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #a2a5be;
+}
+.untitled-page .gameDetailHeader_span2 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameDetailHeader_span3 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #226aa8;
+}
+.untitled-page .gameDetailHeader_span4 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameDetailHeader_span5 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #a2a5be;
+}
+.untitled-page .gameDetailHeader_span6 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameDetailHeader_span7 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #a2a5be;
+}
+.untitled-page .gameDetailHeader_span8 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameDetailHeader_span9 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #226aa8;
+}
+.untitled-page .gameDetailHeader_span10 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #226aa8;
+}
+.untitled-page .gameDetailHeader_span11 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #226aa8;
+}
+.untitled-page .gameDetailHeader_span12 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameDetailHeader_span13 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #a2a5be;
+}
+.untitled-page .gameDetailHeader_span14 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameDetailHeader_span15 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #226aa8;
+}
+.untitled-page .gameDetailHeader_span16 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameTitleHeader_box {
+  position: absolute;
+  top: 3354px;
+  display: flex;
+  justify-content: center;
+  width: 1920px;
+  height: 51px;
+  flex-direction: row;
+}
+.untitled-page .gameTitleHeader {
+  font: 400 42px/1.15 QuinqueFive, Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: -2.1px;
+}
+.untitled-page .gameTitleHeader_span0 {
+  font: 1em/1.15 QuinqueFive, Helvetica, Arial, serif;
+  color: #216aa7;
+}
+.untitled-page .gameTitleHeader_span1 {
+  font: 1em/1.2 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .downloadMaterialsButton {
+  position: absolute;
+  bottom: 0px;
+  left: 97px;
+  top: 3008px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 412px;
+  height: 81px;
+  background: var(--src) center center/100% 100% no-repeat;
+  padding: 26px 30px;
+  letter-spacing: 1px;
+  background-color: #632C91;
+  border-radius: 44px;
+  box-shadow: 3px 3px 5px #a4a5a8;
+
+}
+
+.untitled-page .downloadMaterialsButton a {
+  text-decoration: none;
+  color: #e9eaf2;
+  font: 700 32px/1.43 "BIOCAD bold", Helvetica, Arial, serif;
+  text-align: center;
+}
+
+.untitled-page .downloadMaterialsButton:hover {
+  background-color: #501f79;
+  transition: 0.4s linear;
+}
+
+
+.untitled-page .downloadMaterialsButton2 {
+  position: absolute;
+  bottom: 0px;
+  left: 97px;
+  top: 4227px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 412px;
+  height: 81px;
+  background: var(--src) center center/100% 100% no-repeat;
+  padding: 26px 30px;
+  letter-spacing: 1px;
+  background-color: #226AA8;
+  border-radius: 44px;
+  box-shadow: 3px 3px 5px #a4a5a8;
+
+}
+
+.untitled-page .downloadMaterialsButton2 a{
+  text-decoration: none;
+  color: #e9eaf2;
+  font: 700 32px/1.43 "BIOCAD bold", Helvetica, Arial, serif; 
+  text-align: center;
+ 
+}
+
+.untitled-page .downloadMaterialsButton2:hover {
+  transition: 0.4s linear;
+  background-color: #13528a;
+
+}
+
+.untitled-page .introSection {
+  display: flex;
+  flex-direction: column;
+  min-height: 2718px;
+}
+.untitled-page .contentGroup {
+  position: relative;
+  top: 6px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 2712px;
+}
+.untitled-page .coverImage {
+  position: relative;
+  width: 100%;
+}
+.untitled-page .introTextContent {
+  position: absolute;
+  top: 77px;
+  left: 524px;
+  display: flex;
+  flex-direction: column;
+  gap: 101px 0;
+  width: 1307px;
+  height: 859px;
+}
+.untitled-page .mainTitleBox_box {
+  display: flex;
+  justify-content: center;
+  width: 880px;
+}
+.untitled-page .mainTitleBox {
+  font: 400 42px/1.15 QuinqueFive, Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: -2.1px;
+}
+.untitled-page .mainTitleBox_span0 {
+  font: 1em/1.15 QuinqueFive, Helvetica, Arial, serif;
+  color: #ffb000;
+}
+.untitled-page .mainTitleBox_span1 {
+  font: 1em/1.2 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .subTitleBox_box {
+  margin: 0 0 0 auto;
+  width: 819px;
+}
+.untitled-page .subTitleBox {
+  font: 400 30px/1.46 BIOCAD, Helvetica, Arial, serif;
+  color: black;
+  text-align: justify;
+}
+.untitled-page .subTitleBox_span0 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .subTitleBox_span1 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #a2a5be;
+}
+.untitled-page .subTitleBox_span2 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .subTitleBox_span3 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #ffb000;
+}
+.untitled-page .subTitleBox_span4 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .subTitleBox_span5 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #a2a5be;
+}
+.untitled-page .subTitleBox_span6 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .subTitleBox_span7 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #f1a200;
+}
+.untitled-page .subTitleBox_span8 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .subTitleBox_span9 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #a2a5be;
+}
+.untitled-page .subTitleBox_span10 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #ffb000;
+}
+.untitled-page .subTitleBox_span11 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .gameComponents {
+  position: absolute;
+  top: 702px;
+  left: 97px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px 0;
+  width: 794px;
+  height: 262px;
+}
+.untitled-page .componentsTitleBox {
+  font: 700 30px/1.46 "BIOCAD bold", Helvetica, Arial, serif;
+  color: black;
+  text-align: justify;
+}
+.untitled-page .componentsTitleBox_span0 {
+  font: 700 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+  color: #a1a4be;
+}
+.untitled-page .componentsTitleBox_span1 {
+  font: 1em/1.46 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .galleryHeader {
+  position: absolute;
+  top: 1194px;
+  left: 790.5px;
+  display: flex;
+  justify-content: center;
+  width: 339px;
+  height: 49px;
+  font: 400 42px/1.15 QuinqueFive, Helvetica, Arial, serif;
+  color: #632c91;
+  text-align: center;
+  letter-spacing: -2.1px;
+}
+.untitled-page .galleryImage {
+  position: absolute;
+  top: 1308px;
+  left: 152px;
+  width: 1618px;
+  height: 1345px;
+}
+.untitled-page .decorativeRect1 {
+  position: absolute;
+  top: 4588px;
+  left: 712px;
+  width: 14px;
+  height: 7px;
+  background-color: #ffb000;
+}
+.untitled-page .decorativeRect2 {
+  position: absolute;
+  top: 4588px;
+  left: 1050px;
+  width: 14px;
+  height: 7px;
+  background-color: #ffb000;
+}
+.untitled-page .contactSection {
+  display: flex;
+  flex-direction: row;
+  background: var(--src) center center/100% no-repeat;
+}
+.untitled-page .contactContent {
+  position: relative;
+  top: 208px;
+  left: 222px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 68px 0;
+  width: 1460px;
+  height: 683px;
+}
+.untitled-page .contactTitleBox_box {
+  display: flex;
+  justify-content: center;
+}
+.untitled-page .contactTitleBox {
+  font: 400 42px/1.15 QuinqueFive, Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: -2.1px;
+}
+.untitled-page .contactTitleBox_span0 {
+  font: 1em/1.15 QuinqueFive, Helvetica, Arial, serif;
+  color: #632c91;
+}
+.untitled-page .contactTitleBox_span1 {
+  font: 1em/1.2 "Biocad Display", Helvetica, Arial, serif;
+}
+.untitled-page .contactInfoWrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 0 62px;
+  width: 100%;
+}
+.untitled-page .contactImage {
+  margin: 0 0 10px;
+  width: 412px;
+  min-width: 0;
+}
+.untitled-page .contactInfoCol {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 9px 0;
+  margin: 120px 0 0;
+  width: 382px;
+  min-width: 0;
+}
+.untitled-page .socialMediaBox {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: white;
+  border-radius: 44px;
+}
+.untitled-page .contactSocialImage {
+  margin: 34px;
+  width: calc(100% - 68px);
+  border-radius: 36px;
+}
+.untitled-page .contactSocialTitle {
+  font: 700 40px/1.3 "BIOCAD bold", Helvetica, Arial, serif;
+  color: #211f84;
+  text-align: justify;
+}
+.untitled-page .contactLeaderCol {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 23px 0 0;
+  width: 531px;
+  min-width: 0;
+}
+.untitled-page .projectLeaderTitle {
+  display: flex;
+  justify-content: center;
+  width: 75.14%;
+  font: 700 40px/1.3 "BIOCAD bold", Helvetica, Arial, serif;
+  color: #4e0687;
+  text-align: center;
+  letter-spacing: -0.2px;
+}
+.untitled-page .leaderEmail {
+  margin: 31px 0 0;
+  font: 700 32px/1.62 "BIOCAD bold", Helvetica, Arial, serif;
+  color: #211f84;
+  text-align: justify;
+  letter-spacing: -1.3px;
+}
+.untitled-page .additionalContactCol {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 9px 0;
+  margin: 15px 0 0;
+  width: 100%;
+}
+.untitled-page .additionalContentBox {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: white;
+  border-radius: 44px;
+}
+.untitled-page .additionalImageRow {
+  display: flex;
+  justify-content: space-between;
+  gap: 0 10px;
+  margin: 26px 21px 24px;
+}
+.untitled-page .additionalContactImage {
+  margin: 0 0 4px;
+  width: 224px;
+  min-width: 0;
+}
+.untitled-page .additionalContactImageAlternate {
+  margin: 4px 0 0;
+  width: 224px;
+  min-width: 0;
+}
+.untitled-page .socialMediaRow {
+  display: flex;
+  justify-content: space-between;
+  gap: 0 10px;
+  width: 88.7%;
+}
+.untitled-page .telegramTitle {
+  min-width: 0;
+  font: 700 40px/1.3 "BIOCAD bold", Helvetica, Arial, serif;
+  color: #211f84;
+  text-align: justify;
+}
+.untitled-page .vkontakteTitle {
+  min-width: 0;
+  font: 700 40px/1.3 "BIOCAD bold", Helvetica, Arial, serif;
+  color: #211f84;
+  text-align: justify;
+}
+.untitled-page .contactFooterPlaceholder {
+  position: relative;
+  margin: 1534px 0 125px 28.85%;
+  width: 0;
+  min-height: 24px;
+}
+.untitled-page .contactFooterRow {
+  position: absolute;
+  top: 8665px;
+  left: 157px;
+  display: flex;
+  justify-content: space-between;
+  gap: 0 10px;
+  width: 1010px;
+  height: 223px;
+}
+.untitled-page .footerCopyright {
+  display: flex;
+  align-items: center;
+  margin: 199px 0 0;
+  min-width: 0;
+  font: 400 16px/1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: white;
+}
+.untitled-page .footerNavWrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 0 10px;
+  margin: 0 0 111px;
+  width: 420px;
+  min-width: 0;
+}
+.untitled-page .mainNavigationCol {
+  display: flex;
+  flex-direction: column;
+  gap: 20px 0;
+  width: 79px;
+  min-width: 0;
+}
+.untitled-page .navHomeLink {
+  display: flex;
+  align-items: center;
+  margin: 0 19px 0 0;
+ 
+  letter-spacing: -0.41px;
+}
+
+.untitled-page .navHomeLink a {
+  text-decoration: none;
+  font: 400 16px/1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  transition: 0.4s linear;
+  color: white;
+}
+
+.untitled-page .navHomeLink a:hover {
+  color: #F9FB91;
+}
+
+.untitled-page .navProjectLink {
+  display: flex;
+  align-items: center;
+  font: 400 16px/1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: white;
+}
+
+.untitled-page .navProjectLink a{
+text-decoration: none;
+font: 400 16px/1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+color: white;
+transition: 0.4s linear;
+}
+
+.untitled-page .navProjectLink a:hover {
+  color: #F9FB91;
+}
+
+.untitled-page .navContactLink {
+  display: flex;
+  align-items: center;
+  margin: 0 5px 0 0;
+  font: 400 16px/1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: white;
+}
+
+.untitled-page .navContactLink a{
+text-decoration: none;
+font: 400 16px/1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+color: white;
+transition: 0.4s linear;
+}
+
+.untitled-page .navContactLink a:hover {
+  color: #F9FB91;
+}
+
+.untitled-page .additionalNavigationCol {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 1px;
+  width: 217px;
+  min-width: 0;
+}
+
+.untitled-page .additionalNavigationCol a{
+text-decoration: none;
+font: 400 16px/1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+color: white;
+transition: 0.4s linear;
+}
+
+.untitled-page .additionalNavigationCol a:hover {
+  color: #F9FB91;
+}
+
+
+.untitled-page .navForumLink {
+  display: flex;
+  align-items: center;
+  margin: 0 2px;
+  font: 400 16px/1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: white;
+  letter-spacing: -0.41px;
+}
+
+.untitled-page .navForumLink a{
+text-decoration: none;
+font: 400 16px/1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+color: white;
+transition: 0.4s linear;
+}
+
+.untitled-page .navForumLink  a:hover {
+  color: #F9FB91;
+}
+
+
+.untitled-page .navCountryLink {
+  display: flex;
+  align-items: center;
+  margin: 20px 0 0;
+  font: 400 16px/1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: white;
+}
+
+.untitled-page .navCountryLink a{
+text-decoration: none;
+font: 400 16px/1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+color: white;
+transition: 0.4s linear;
+}
+
+.untitled-page .navCountryLink a:hover {
+  color: #F9FB91;
+}
+
+.untitled-page .navGrantLink {
+  display: flex;
+  align-items: center;
+  margin: 19px 0 0;
+  font: 400 16px/1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: white;
+}
+
+.untitled-page .navGrantLink a{
+  text-decoration: none;
+  font: 400 16px/1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: white;
+  transition: 0.4s linear;
+  }
+
+  .untitled-page .navGrantLink a:hover {
+    color: #F9FB91;
+  }
+  
+  @media (max-width: 430px) {
+    .untitled-page .section1 {
+      display: flex;
+      flex-direction: column;
+      min-height: 400px;
+      background: var(--src) center center / 100% 100% no-repeat;
+      box-sizing: content-box; 
+    }
+    .untitled-page .Navbar {
+      display: flex;
+      max-width: 1708px;
+      background-color: #0503225e;
+      align-items: flex-start;
+      justify-content: center;
+      margin-left: -190px;
+      margin-right: auto;
+      flex-wrap: wrap;
+      padding-top: 4px;
+      margin-top: -3px;
+  }
+  .untitled-page .navbar2 a {
+    text-decoration: none;
+    font: 400 12px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+    color: #E4D9FF;
+    transition: 0.4s linear;
+    }
+    .untitled-page .navbar3 a {
+      text-decoration: none;
+      font: 400 12px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+      color: #E4D9FF;
+      transition: 0.4s linear;
+    }
+
+      .untitled-page .navbar4 a {
+        text-decoration: none;
+        font: 400 12px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+        color: #E4D9FF;
+        transition: 0.4s linear;
+      }
+
+      .untitled-page .navbar5 a {
+        text-decoration: none;
+        font: 400 12px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+        color: #E4D9FF;
+        transition: 0.4s linear;
+       }
+       .untitled-page .navbar6 a {
+        text-decoration: none;
+        font: 400 12px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+        color: #E4D9FF;
+        transition: 0.4s linear;
+      }
+      .untitled-page .navbar4 {
+        text-decoration: none;
+        font: 400 20px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+        color: #E4D9FF;
+        padding-left: 191px;
+        margin-top: -13px;
+      }
+      .untitled-page .navbar5 {
+        text-decoration: none;
+        font: 400 24px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+        color: #E4D9FF;
+        padding-left: 160px;
+        margin-top: -15px;
+      }
+        .untitled-page .navbar6 {
+          text-decoration: none;
+          font: 400 24px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+          color: #E4D9FF;
+          padding-left: 160px;
+          margin-top: -15px;
+        }
+
+        .untitled-page .navbar3 {
+          text-decoration: none;
+          font: 400 20px / 1.5 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+          color: #E4D9FF;
+          padding-left: 170px;
+          padding-right: 10px;
+      }
+      .untitled-page .heroSection {
+        display: flex;
+        background: var(--src) center center / 202% 58% no-repeat;
+        background-position-y: -1px;
+        background-position-x: -227px;
+      }
+
+        .untitled-page .heroDescription {
+          margin: -85px 480px 0 1px;
+          font: 350 23px / 1.3 BIOCAD, Helvetica, Arial, serif;
+          color: black;
+          text-align: justify;
+      }
+
+      .untitled-page .contentWrapper {
+        display: flex;
+        flex-direction: column;
+        margin: 208px 0 221px 8.81%;
+        width: 836px;
+    }
+
+    .untitled-page .heroTitleBox {
+      font: 400 25px / 1.15 QuinqueFive, Helvetica, Arial, serif;
+      color: black;
+      text-align: center;
+      letter-spacing: -2.1px;
+      margin-right: 480px;
+      margin-top: -169px;
+  }
+
+  .untitled-page .rectElement {
+    margin: 0 0 0 23.5%;
+    width: 15px;
+    min-height: 8px;
+    margin-left: 398px;
+    background-color: #4e0687;
+}
+
+
+
+
+  }
